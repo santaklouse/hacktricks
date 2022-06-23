@@ -1,6 +1,6 @@
 # Table of contents
 
-## 👾 Welcome!
+## Welcome!
 
 * [HackTricks](README.md)
 * [About the author](welcome/about-the-author.md)
